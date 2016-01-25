@@ -1,0 +1,14 @@
+layout_spectrum: 0.3448566
+typography_spectrum: 0.7124789
+color:
+  lightness: 0.6555832
+  brandStrength: 0.7529511
+  saturation: 0.2613831
+  rhythmicContrast: 0.891483
+  brandColors:
+    - '#010201'
+    - '#41434B'
+    - '#F4F9FF'
+    - '#888888'
+    - '#026EFA'
+name: 'A Temporary Human Experience '

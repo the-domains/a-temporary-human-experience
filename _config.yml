@@ -1,14 +1,25 @@
 layout_spectrum: 0.3448566
-typography_spectrum: 0.7124789
+name: 'A Temporary Human Experience '
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 0.7731872
   lightness: 0.6555832
-  brandStrength: 0.7529511
   saturation: 0.2613831
   rhythmicContrast: 0.891483
   brandColors:
-    - '#010201'
-    - '#41434B'
-    - '#F4F9FF'
-    - '#888888'
-    - '#026EFA'
-name: 'A Temporary Human Experience '
+    - '#F8C6A5'
+    - '#41291F'
+    - '#B5876E'
+    - '#6E4B39'
+typography_spectrum: 0.7124789
